@@ -1,0 +1,8 @@
+DATA STRUCTURE:
+---------------
+If with base address of annonymous block of type 'T', 
+we can reach base address of other annonymous blocks. 
+Then it is called data structure property. 
+
+And such collection of annonymous blocks of type 'T' 
+is called data structure. 

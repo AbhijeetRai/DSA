@@ -1,0 +1,5 @@
+No of elements in following cases (b >= a supposed)
+
+[a, b]:                 b - a + 1
+(a, b] or [a, b):       b - a
+(a, b):                 b - a - 1

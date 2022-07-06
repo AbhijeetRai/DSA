@@ -1,0 +1,18 @@
+typedef struct node {
+	
+	int data; 
+	struct node* ptr;
+}node;
+
+
+In node of linked list, when data is in do not carry condition (or there is no data) 
+that node is called a dummy node. Dummy nodes are sometimes used as first nodes.  
+
+Because, changing and returning first address after operations is not good idea. 
+Hence actual first node is stored in dummy node. And dummy node keeps track of it. 
+
+If address inside dummy node is empty, we know list is empty. 
+But what if we have only explicit variable node* ptr = NULL. 
+We would not even know whether ptr was previously pointing to single structure or whole list.
+
+
