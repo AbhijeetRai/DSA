@@ -337,7 +337,7 @@ struct bst_node* get_predecessor_node(struct bst_node* e_node) {
  * DELETE ALGORITHM:
  *      1) LST is null, RST may or may not be NULL
  *      2) LST is not null, RST is null
- *      3) LST is not null, RST is null
+ *      3) LST is not null, RST is not null
                 i)  Inorder successor of node to be deleted is the right child
                 ii) Inorder successor of node to be deleted is not the right child
  */
