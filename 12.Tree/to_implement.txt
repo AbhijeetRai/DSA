@@ -1,0 +1,8 @@
+1. Improve insert code 
+2. Run both delete functions and dry run 
+3. Mirror Image
+4. Preorder:  Predecessor and Successor 
+5. Postorder: Predecessor and Successor 
+6. Non recursive iteration 
+7. Other traversal methods 
+8. Modular approach
